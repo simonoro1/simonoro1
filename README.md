@@ -2,6 +2,22 @@
 
 
 Full Stack Developer from Argentina 🧉
+
+
+🌱 Currently learning GraphQL and ReactNative
+
+
+📫 Reach me at:
+
+simonoro1@outlook.com
+
+
+
+Skills
+
+
+
+My Projects
 <!--
 **simonoro1/simonoro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
