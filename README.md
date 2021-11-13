@@ -2,7 +2,6 @@
 
 
 Full Stack Developer from Argentina 🧉
-<p "style = color:red">hola</p>
 
 🌱 Currently learning GraphQL 
 
