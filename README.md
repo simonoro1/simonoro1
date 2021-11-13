@@ -4,7 +4,7 @@
 Full Stack Developer from Argentina 🧉
 
 
-🌱 Currently learning GraphQL and ReactNative
+🌱 Currently learning GraphQL 
 
 
 📫 Reach me at:
