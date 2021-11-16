@@ -10,6 +10,10 @@ Full Stack Developer from Argentina 🧉
 
 simonoro1@outlook.com
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="s" height="30" width="40" /></a>
+</p>
 
 
 Skills
