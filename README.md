@@ -1,5 +1,4 @@
-<div align="center" display="flex">
-<img width="40%" height = "250px" src="https://as1.ftcdn.net/v2/jpg/04/54/49/88/500_F_454498819_VTHYFq40dB3ur4fVGK2UdK5WeAXpch0r.jpg" alt="cover" />
+<div align="center">
 <h1> Hi there!< Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 </div>
