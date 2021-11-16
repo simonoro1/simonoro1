@@ -1,14 +1,3 @@
-### Hi there 👋
-
-
-Full Stack Developer from Argentina 🧉
-
-🌱 Currently learning GraphQL 
-
-
-📫 Reach me at:
-
-simonoro1@outlook.com
 <div align="center">
 <img width="100%" height = "250px" src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="cover" />
 </div>
@@ -19,7 +8,7 @@ simonoro1@outlook.com
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=simonoro1.simonoro1)
 
 </p>
-<div size='20px'> Hi! My name is Simon. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi there! My name is Simon, Full Stack Developer from Argentina 🧉. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
