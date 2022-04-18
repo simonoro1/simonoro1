@@ -21,21 +21,6 @@
       <img align="center" src="https://github.com/maguilococo/maguilococo/raw/main/MyHouseApp/LandPage.png" alt="me" width="280" height="140" style="max-width: 100%;">
     </a> -->
     <a href="https://my-house-app-one.vercel.app/" rel="nofollow">
-      <img align="center" src="https://github.com/maguilococo/maguilococo/raw/main/MyHouseApp/Home.png" alt="home" width="280" height="140" style="max-width: 100%;">
-    </a>
-    <a href="https://my-house-app-one.vercel.app/" rel="nofollow">
-      <img align="center" src="https://github.com/maguilococo/maguilococo/raw/main/MyHouseApp/Details.png" alt="me" width="280" height="140" style="max-width: 100%;">
-    </a>
-    <a href="https://my-house-app-one.vercel.app/" rel="nofollow">
-      <img align="center" src="https://github.com/maguilococo/maguilococo/raw/main/MyHouseApp/loginMobile.png" alt="me" width="110" height="200" style="max-width: 100%;">
-    </a>
-    <a href="https://my-house-app-one.vercel.app/" rel="nofollow">
-      <img align="center" src="https://github.com/maguilococo/maguilococo/raw/main/MyHouseApp/newPost.png" alt="me" width="280" height="140" style="max-width: 100%;">
-    </a>
-    <a href="https://my-house-app-one.vercel.app/" rel="nofollow">
-      <img align="center" src="https://github.com/maguilococo/maguilococo/raw/main/MyHouseApp/AdminMobile.png" alt="me" width="110" height="200" style="max-width: 100%;">
-    </a>
-  </p>
 <hr> 
   <h3 dir="auto"><a id="user-content-dogapp" class="anchor" aria-hidden="true" href="#dogapp"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>DogApp</h3>
   <p dir="auto">
@@ -44,43 +29,11 @@
   <br>
 <!--   <a href="https://dogapp.vercel.app/" rel="nofollow"><b>Try the app</b></a> --&gt; repositories <a href="https://github.com/maguilococo/DogApp_client">client</a> &amp; <a href="https://github.com/maguilococo/DogApp-api">server</a> -->
   </p>  
-  <p dir="auto">
-    <a href="https://dogapp.vercel.app/" rel="nofollow">
-      <img align="center" src="/simonoro1/simonoro1/blob/main/DogImages/1.PNG" alt="me" width="280 height=" style="max-width: 100%;">
-    </a>
-    <a href="https://dogapp.vercel.app/" rel="nofollow">
-      <img align="center" src="/maguilococo/maguilococo/raw/main/DogApp/responsive_landPage.png" alt="me" width="110" height="200" style="max-width: 100%;">
-    </a>
-    <a href="https://dogapp.vercel.app/" rel="nofollow">
-      <img align="center" src="/maguilococo/maguilococo/raw/main/DogApp/Home.png" alt="me" width="280" height="140" style="max-width: 100%;">
-    </a>
-    <a href="https://dogapp.vercel.app/" rel="nofollow">
-      <img align="center" src="/maguilococo/maguilococo/raw/main/DogApp/responsive_Home.png" alt="me" width="110" height="200" style="max-width: 100%;">
-    </a>
-    <a href="https://dogapp.vercel.app/" rel="nofollow">
-      <img align="center" src="/maguilococo/maguilococo/raw/main/DogApp/responsive_form.png" alt="me" width="110" height="200" style="max-width: 100%;">
-    </a>
-    <a href="https://dogapp.vercel.app/" rel="nofollow">
-      <img align="center" src="/maguilococo/maguilococo/raw/main/DogApp/form.png" alt="me" width="280" height="140" style="max-width: 100%;">
-    </a>
-    <a href="https://dogapp.vercel.app/" rel="nofollow">
-      <img align="center" src="/maguilococo/maguilococo/raw/main/DogApp/details.png" alt="me" width="280" height="140" style="max-width: 100%;">
-    </a>
   </p>    
-  <br>
-  <br>
   <hr>
   <h3 dir="auto"><a id="user-content-the-weather-app" class="anchor" aria-hidden="true" href="#the-weather-app"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Space Shooteer</h3>
   <p dir="auto">
     <b>Space Shooter is a videogame made with python, one of my first and favourites projects in wich i learned POO and the basics of programation during first year in college</b><
-  <p dir="auto">
-    <a href="/maguilococo/maguilococo/blob/main/WeatherApp/emptyHome.png">
-      <img align="left" src="/maguilococo/maguilococo/raw/main/WeatherApp/home.png" alt="me" width="280" height="140" style="max-width: 100%;">
-    </a>
-    <a href="/maguilococo/maguilococo/blob/main/WeatherApp/emptyHome.png">
-      <img align="left" src="/maguilococo/maguilococo/raw/main/WeatherApp/emptyHome.png" alt="me" width="280" height="140" style="max-width: 100%;">
-  </a>
-  </p>
 
 </article>
   </div>
