@@ -27,6 +27,10 @@
     <b>Meet the diversity of dogs in the world!</b><br>
     This app was my final project in the Henry Bootcamp, developed with React, Redux, CSS modules, HTML in the front, and Node.js, Express, Sequelize and PostgreSQL in the server side.
   <br>
+
+https://user-images.githubusercontent.com/58258745/163832119-6900da1a-5419-4a1c-b323-211ad695ad5e.mp4
+
+
 <!--   <a href="https://dogapp.vercel.app/" rel="nofollow"><b>Try the app</b></a> --&gt; repositories <a href="https://github.com/maguilococo/DogApp_client">client</a> &amp; <a href="https://github.com/maguilococo/DogApp-api">server</a> -->
   </p>  
   </p>    
