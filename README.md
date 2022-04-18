@@ -35,6 +35,10 @@
   <p dir="auto">
     <b>Space Shooter is a videogame made with python, one of my first and favourites projects in wich i learned POO and the basics of programation during first year in college</b><
 
+
+https://user-images.githubusercontent.com/58258745/163829570-2f15e2b5-6a03-4ed3-bbb2-002bedb1243d.mp4
+
+
 </article>
   </div>
 </div>
