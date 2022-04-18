@@ -46,7 +46,7 @@
   </p>  
   <p dir="auto">
     <a href="https://dogapp.vercel.app/" rel="nofollow">
-      <img align="center" src="/simonoro1/simonoro1/raw/main/projectImages/1.png" alt="me" width="280 height=" style="max-width: 100%;">
+      <img align="center" src="/simonoro1/simonoro1/main/projectImages/1.PNG" alt="me" width="280 height=" style="max-width: 100%;">
     </a>
     <a href="https://dogapp.vercel.app/" rel="nofollow">
       <img align="center" src="/maguilococo/maguilococo/raw/main/DogApp/responsive_landPage.png" alt="me" width="110" height="200" style="max-width: 100%;">
