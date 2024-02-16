@@ -22,7 +22,7 @@
   configuring an HTTPS server, session management, user authentication, and middleware.
 </p>
 ![Capturaweq](https://github.com/simonoro1/simonoro1/assets/58258745/94e8fd9b-2766-44f3-b4c6-137ad8dc358b)
-
+![App Screenshot](https://github.com/simonoro1/simonoro1/blob/main/DogImages/1.PNG?raw=true)
 <h2> VBank </h2>
 <p>Snippetbox is a Web application called Snippetbox, which lets people paste and share text snippets — a bit like Pastebin or GitHub’s Gists!
   I walked through topics like how to structure a project, routing requests, working with a
