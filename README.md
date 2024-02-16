@@ -28,7 +28,7 @@
   configuring an HTTPS server, session management, user authentication, and middleware.
 </p>
 
-![App Screenshot](https://github.com/simonoro1/simonoro1/blob/main/DogImages/image.PNG?raw=true)
+![App Screenshot](https://github.com/simonoro1/simonoro1/blob/main/DogImages/image.png?raw=true)
 
 <h2> VBank </h2>
 <p>
