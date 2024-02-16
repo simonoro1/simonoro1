@@ -21,6 +21,15 @@
 
 ![App Screenshot](https://github.com/simonoro1/simonoro1/blob/main/DogImages/snippet.PNG?raw=true)
 
+<h2> Dashboard System </h2>
+<p>Snippetbox is a Web application called Snippetbox, which lets people paste and share text snippets — a bit like Pastebin or GitHub’s Gists!
+  I walked through topics like how to structure a project, routing requests, working with a
+  database, processing forms, and displaying dynamic data safely,
+  configuring an HTTPS server, session management, user authentication, and middleware.
+</p>
+
+![App Screenshot](https://github.com/simonoro1/simonoro1/blob/main/DogImages/image.PNG?raw=true)
+
 <h2> VBank </h2>
 <p>
   Se trata de una aplicación web realizada por 6 personas como proyecto final para la carrera de Full Stack Developer en SoyHenry, para su realización se aplicaron diversas tecnologías como React, Redux, Css (Styled components), Express, MongoDB, etcétera. 
