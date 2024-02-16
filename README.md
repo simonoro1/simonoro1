@@ -37,22 +37,22 @@
 
 
 
-# Project Title
+## Project Title
 
 A brief description of what this project does and who it's for
 
 
-###### Screenshots
+#### Screenshots
 
 ![App Screenshot](https://github.com/simonoro1/simonoro1/blob/main/DogImages/1.PNG?raw=true)
 
 
-## Authors
+#### Authors
 
 - [@octokatherine](https://www.github.com/octokatherine)
 
 
-## Related
+#### Related
 
 Here are some related projects
 
