@@ -30,32 +30,7 @@
   database, processing forms, and displaying dynamic data safely,
   configuring an HTTPS server, session management, user authentication, and middleware.
 </p>
-![plot](./DogImages/1.PNG)
 
-
-
-## Project Title
-
-A brief description of what this project does and who it's for
-
-
-#### Screenshots
-
-![App Screenshot](https://github.com/simonoro1/simonoro1/blob/main/DogImages/1.PNG?raw=true)
-![App Screenshot](https://github.com/simonoro1/simonoro1/blob/main/DogImages/2.PNG?raw=true)
-![App Screenshot](https://github.com/simonoro1/simonoro1/blob/main/DogImages/3.PNG?raw=true)
-<img src="https://github.com/simonoro1/simonoro1/blob/main/DogImages/2.PNG?raw=true" width="500" height="400">
-
-#### Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
-#### Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
 
 
 <h3 align="left">Languages and Tools:</h3>
