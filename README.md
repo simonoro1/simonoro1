@@ -19,10 +19,16 @@
   configuring an HTTPS server, session management, user authentication, and middleware.
 </p>
 <h2> VBank </h2>
-<p>Snippetbox is a Web application called Snippetbox, which lets people paste and share text snippets — a bit like Pastebin or GitHub’s Gists!
-  I walked through topics like how to structure a project, routing requests, working with a
-  database, processing forms, and displaying dynamic data safely,
-  configuring an HTTPS server, session management, user authentication, and middleware.
+<p>
+  Se trata de una aplicación web realizada por 6 personas como proyecto final para la carrera de Full Stack Developer en SoyHenry, para su realización se aplicaron diversas tecnologías como React, Redux, Css (Styled components), Express, MongoDB, etcétera. 
+
+Su objetivo es ofrecer funcionalidades de homebanking para un banco ficticio denominado VBank. 
+
+Entre sus cualidades más destacables encontramos varias capas de seguridad y autenticación mediante la creación de tokens únicos para cada usuario, validación de emails y encriptación de datos y contraseñas. 
+
+Dentro de sus funcionalidades se nos permite realizar transferencias a contactos, por CVU o nombre de usuario, depositar dinero en plazos fijos, realizar recargas mediante escaneo de códigos QR entre otras.
+
+El proyecto tuvo una duración inicial de cuatro semanas, fue aprobado y actualmente continúa el desarrollo de nuevas funcionalidades.
 </p>
 <h2> Project Manager </h2>
 <p>Snippetbox is a Web application called Snippetbox, which lets people paste and share text snippets — a bit like Pastebin or GitHub’s Gists!
