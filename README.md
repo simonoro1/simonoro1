@@ -45,7 +45,6 @@ A brief description of what this project does and who it's for
 #### Screenshots
 
 ![App Screenshot](https://github.com/simonoro1/simonoro1/blob/main/DogImages/1.PNG?raw=true)
-<img src="https://github.com/simonoro1/simonoro1/blob/main/DogImages/1.PNG?raw=true" width="400" height="300">
 
 
 #### Authors
