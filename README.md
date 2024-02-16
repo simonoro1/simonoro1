@@ -18,6 +18,9 @@
   database, processing forms, and displaying dynamic data safely,
   configuring an HTTPS server, session management, user authentication, and middleware.
 </p>
+
+![App Screenshot](https://github.com/simonoro1/simonoro1/blob/main/DogImages/snippet.PNG?raw=true)
+
 <h2> VBank </h2>
 <p>
   Se trata de una aplicación web realizada por 6 personas como proyecto final para la carrera de Full Stack Developer en SoyHenry, para su realización se aplicaron diversas tecnologías como React, Redux, Css (Styled components), Express, MongoDB, etcétera. 
