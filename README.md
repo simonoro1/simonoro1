@@ -38,6 +38,9 @@
   Dentro de sus funcionalidades se nos permite realizar transferencias a contactos, por CVU o nombre de usuario, depositar dinero en plazos fijos, realizar recargas mediante escaneo de códigos QR entre otras.
 </p>
 
+![App Screenshot](https://github.com/simonoro1/simonoro1/blob/main/DogImages/vbank.PNG?raw=true)
+
+
 <h2> Dog App </h2>
 <p>Snippetbox is a Web application called Snippetbox, which lets people paste and share text snippets — a bit like Pastebin or GitHub’s Gists!
   I walked through topics like how to structure a project, routing requests, working with a
