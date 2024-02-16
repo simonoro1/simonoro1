@@ -12,7 +12,7 @@
 </p>
 <h3> PROJECTS: </h3>
 
-<h2> Snippet Box </h2>
+<h2> Snippet Box - Golang project </h2>
 <p>Snippetbox is a Web application called Snippetbox, which lets people paste and share text snippets — a bit like Pastebin or GitHub’s Gists!
   I walked through topics like how to structure a project, routing requests, working with a
   database, processing forms, and displaying dynamic data safely,
