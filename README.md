@@ -5,9 +5,6 @@
 
 - 📫 How to reach me **simonoro1@outlook.com**
 
-- 📄 Know about my experiences [link](link)
-
-- ⚡ Fun fact **I love JiuJitsu 🥋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
