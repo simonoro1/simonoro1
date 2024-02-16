@@ -21,7 +21,8 @@
   database, processing forms, and displaying dynamic data safely,
   configuring an HTTPS server, session management, user authentication, and middleware.
 </p>
-![Screenshot](screenshot.png)
+![Capturaweq](https://github.com/simonoro1/simonoro1/assets/58258745/f88a26cc-3c08-436e-9bc6-ff5e1ae56885)
+
 <h2> VBank </h2>
 <p>Snippetbox is a Web application called Snippetbox, which lets people paste and share text snippets — a bit like Pastebin or GitHub’s Gists!
   I walked through topics like how to structure a project, routing requests, working with a
